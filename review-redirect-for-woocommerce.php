@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 /**
  * Plugin Name: Review Redirect for WooCommerce
  * Description: Collect customer ratings after WooCommerce orders and guide happy customers to leave a Google review.
- * Version: 0.1.7
- * Author: Murat Ãƒâ€“zden
+ * Version: 1.0.0
+ * Author: Murat ÃƒÆ’Ã¢â‚¬â€œzden
  * Text Domain: review-redirect-for-woocommerce
  * Domain Path: /languages
  * Requires at least: 6.0
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'RRFW_VERSION', '0.1.7' );
+define( 'RRFW_VERSION', '1.0.0' );
 define( 'RRFW_PLUGIN_FILE', __FILE__ );
 define( 'RRFW_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'RRFW_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
