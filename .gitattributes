@@ -1,0 +1,15 @@
+/.github export-ignore
+/.vscode export-ignore
+/node_modules export-ignore
+/tests export-ignore
+/phpunit.xml export-ignore
+/composer.json export-ignore
+/composer.lock export-ignore
+/package.json export-ignore
+/package-lock.json export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/.distignore export-ignore
+/CHECKLIST.md export-ignore
+/README.md export-ignore
+/CHANGELOG.md export-ignore

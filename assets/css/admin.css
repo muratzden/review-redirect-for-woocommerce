@@ -1,0 +1,11 @@
+.rrfw-admin-wrap .form-table th {
+	width: 260px;
+}
+
+.rrfw-admin-wrap input[type="number"] {
+	width: 80px;
+}
+
+.rrfw-admin-wrap textarea {
+	max-width: 640px;
+}

@@ -1,0 +1,17 @@
+.git
+.github
+.vscode
+node_modules
+tests
+vendor
+phpunit.xml
+composer.json
+composer.lock
+package.json
+package-lock.json
+.gitignore
+.gitattributes
+.distignore
+CHECKLIST.md
+README.md
+CHANGELOG.md
